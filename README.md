@@ -33,7 +33,7 @@ As principais regras implementadas no sistema são:
 3. Cobrança de multa por devoluções atrasadas
    - O sistema calcula automaticamente o valor: multa = dias de atraso × valor diário fixo.  
    - A multa deve ser quitada antes de novas locações  
-   - *Subdomínio: Controle de Empréstimos
+   - Subdomínio: Controle de Empréstimos
 
 4. Validação de clientes antes da locação
    - Apenas clientes ativos podem realizar locações
